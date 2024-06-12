@@ -17,11 +17,11 @@ A responsive real estate website built with React and Tailwind CSS.
 
 ## 🚀 Live Demo
 
-[View Demo on Netlify](https://your-netlify-link.netlify.app)
+[View Demo on Netlify](https://real-estate-home-land.netlify.app/)
 
 ## 📦 Getting Started
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
